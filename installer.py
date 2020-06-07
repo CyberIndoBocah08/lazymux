@@ -1,6 +1,5 @@
 #!/bin/bash
-#Silahkan di recode :)
-#Jangan Lupa Subscribe Ekid Root
+#jgan recode awok²:b
 
 #Variables
 clear
@@ -19,10 +18,9 @@ blue="\033[1;34m"
 cyan="\033[1;36m"
 red="\033[1;31m"
 
-figlet EKID | lolcat
-figlet ROOT | lolcat
-echo "ADMIN : EBECK KANSAS" | lolcat
-echo "YOUTUBE : Ekid Root" | lolcat
+figlet CYBER | lolcat
+figlet INDO | lolcat
+echo "ADMIN : ARI SAPUTRA" | lolcat
 
 
 ###################################################
@@ -51,8 +49,8 @@ echo $c "4   Lazymux${endc}";
 echo $r "5.  Tools-X${endc}";
 echo $r "6. Exit${endc}";
 echo ""
-echo "ebeck kansas" |lolcat
-read -p "ekid root :" pil;
+echo "ari saputra" |lolcat
+read -p "arisaputra :" pil;
 
 # Nmap
 
@@ -117,7 +115,7 @@ bash /data/data/com.termux/files/home/Tool-X/sh install.aex
 ;;
 
 
-6) echo "by ebeck kansas" | lolcat
+6) echo "by arisaputra" | lolcat
 exit
 ;;
 
